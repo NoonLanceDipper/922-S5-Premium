@@ -1,0 +1,29 @@
+{
+  "repo": "922-s5-premium",
+  "product": "922 S5 Premium",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "git-new-era-mylunora",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "system-tools",
+  "topics": [
+    "s5",
+    "s5-desktop",
+    "s5-release",
+    "s5-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "mylunora.art",
+  "product_title": "922 S5 Premium"
+}
